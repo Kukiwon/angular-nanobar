@@ -1,0 +1,29 @@
+{
+  "name": "angular-nanobar",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zdwolfe/angular-nanobar",
+  "authors": [
+    "zdwolfe <wolfe.zach@gmail.com>"
+  ],
+  "description": "AngularJS Directive for nanobar.js by github.com/jacoborus",
+  "main": "nanobar.js",
+  "keywords": [
+    "nanobar",
+    "directive",
+    "progress",
+    "percentage",
+    "progressbar",
+    "br"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "nanobar": "~0.0.6"
+  }
+}
