@@ -1,6 +1,6 @@
 (function() {
   'use strict';
-  angular.module('nanobar')
+  angular.module('nanobar', [])
     .directive('nanobar', function ($log) {
       return {
         restrict: 'A',
