@@ -1,9 +1,10 @@
 {
   "name": "angular-nanobar",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/zdwolfe/angular-nanobar",
   "authors": [
-    "zdwolfe <wolfe.zach@gmail.com>"
+    "zdwolfe <wolfe.zach@gmail.com>",
+    "jvankuijk <info@npsoftware.nl>"
   ],
   "description": "AngularJS Directive for nanobar.js by github.com/jacoborus",
   "main": "nanobar.js",
