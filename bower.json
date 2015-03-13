@@ -24,6 +24,6 @@
     "tests"
   ],
   "dependencies": {
-    "nanobar": "~0.0.6"
+    "nanobar": "~0.2.0"
   }
 }
